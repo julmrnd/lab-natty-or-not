@@ -20,23 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Quebra de dieta
 
 ## 📒 Descrição
 Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei o "HeyGen" para criar um vídeo curto, avatar e text to speech.
+
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Aproveitei um avatar da própria plataforma e escolhi a Avatar cozinhando. Para o recurso de voz, decidi utilizar uma voz mais séria. Já para o texto não quis utilizar a própria imagem com base, por isso - e aproveitando o meu próprio desejo, a Avatar deseja uma sobremesa.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://app.heygen.com/share/487cc05be6274a67b8b91f7062b65ae8
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Eu sou bem indecisa, mas foi muito legal e logo me empolguei (meu filho também). 
 
 ### Exemplos e Insigths
 
